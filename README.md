@@ -15,7 +15,7 @@ I'm Nikita, a Computer Science student with a passion for back-end development.
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 📈 GitHub Statistics:
-![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikita-bot&show_icons=true&theme=radical)
 
 📫 How to reach me:
 - Email: [nikita.pazderin@gmail.com](mailto:nikita.pazderin@gmail.com)
